@@ -39,6 +39,15 @@ layout: default
         {% for l in p.links %}{% if l.url != "" %}<a class="pill" href="{{ l.url }}">{{ l.label }}</a>{% endif %}{% endfor %}
       </p>
     </div>
+    {% if p.featured %}
+    <a class="featured" href="{{ p.featured.link }}">
+      <img src="{{ p.featured.image }}" alt="Cover of {{ p.featured.title | escape }}">
+      <span class="f-label">{{ p.featured.label }}</span>
+      <span class="f-title">{{ p.featured.title }}</span>
+      <span class="f-sub">{{ p.featured.subtitle }}</span>
+      <span class="f-link">{{ p.featured.link_text }} →</span>
+    </a>
+    {% endif %}
   </div>
   <svg class="waves" viewBox="0 0 1440 90" preserveAspectRatio="none" aria-hidden="true">
     <path d="M0,50 C120,20 240,20 360,45 C480,70 600,75 720,50 C840,25 960,20 1080,45 C1200,70 1320,70 1440,48 L1440,90 L0,90 Z"/>
@@ -190,7 +199,7 @@ layout: default
   </div>
   <div class="pubpanel" data-panel="books">
     <ol class="pubs" reversed>
-    {% for x in b.books %}<li>{{ x.ref | markdownify | remove: '<p>' | remove: '</p>' | replace: me, me_b }}{% if x.status %} <span class="badge">{{ x.status }}</span>{% endif %}{% if x.url and x.url != "" %} <a class="doi" href="{{ x.url }}">link</a>{% endif %}</li>
+    {% for x in b.books %}<li{% if x.cover %} class="has-cover"{% endif %}>{% if x.cover %}<img class="cover" src="{{ x.cover }}" alt="Book cover" loading="lazy">{% endif %}{{ x.ref | markdownify | remove: '<p>' | remove: '</p>' | replace: me, me_b }}{% if x.status %} <span class="badge">{{ x.status }}</span>{% endif %}{% if x.url and x.url != "" %} <a class="doi" href="{{ x.url }}">link</a>{% endif %}</li>
     {% endfor %}
     </ol>
   </div>

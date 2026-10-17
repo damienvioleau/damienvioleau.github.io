@@ -30,3 +30,13 @@ function show(){
 }
 tabs.forEach(b=>b.addEventListener('click',()=>{current=b.dataset.tab;q.value='';tabs.forEach(x=>x.setAttribute('aria-selected',x===b));show()}));
 if(q){q.addEventListener('input',show);show();}
+
+// Links such as href="#books" open the matching Publications tab
+function openTab(name){
+  const b=tabs.find(t=>t.dataset.tab===name); if(!b) return false;
+  b.click(); document.getElementById('publications').scrollIntoView({behavior:'smooth'}); return true;
+}
+document.querySelectorAll('a[href^="#"]').forEach(a=>a.addEventListener('click',e=>{
+  if(openTab(a.getAttribute('href').slice(1))){e.preventDefault(); history.replaceState(null,'',a.getAttribute('href'));}
+}));
+if(location.hash) openTab(location.hash.slice(1));

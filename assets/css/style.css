@@ -164,3 +164,20 @@ aside h3:first-child{margin-top:.2rem}
   .pubs{padding-left:2.4rem}
   h2{font-size:1.6rem}
 }
+
+/* ---------- Featured item (top right) and book covers ---------- */
+.hero-grid{grid-template-columns:240px 1fr auto}
+.featured{display:flex;flex-direction:column;width:190px;padding:14px;border-radius:14px;background:rgba(255,255,255,.08);border:1px solid rgba(255,255,255,.25);color:#fff;transition:transform .2s, background .2s}
+.featured:hover{text-decoration:none;background:rgba(255,255,255,.15);transform:translateY(-3px)}
+.featured img{width:100%;aspect-ratio:2/3;object-fit:cover;border-radius:4px;box-shadow:0 8px 20px rgba(0,0,0,.35);margin-bottom:10px;background:#e8e6df}
+.f-label{font-size:.7rem;text-transform:uppercase;letter-spacing:.08em;color:#9fe0dc}
+.f-title{font-family:var(--serif);font-size:1rem;line-height:1.25;margin:.15rem 0}
+.f-sub{font-size:.8rem;opacity:.8}
+.f-link{font-size:.8rem;margin-top:.5rem;color:#9fe0dc}
+.pubs li.has-cover::after{content:"";display:block;clear:both}
+.pubs .cover{float:left;width:64px;aspect-ratio:2/3;object-fit:cover;border-radius:3px;margin:2px 14px 4px 0;box-shadow:0 2px 8px rgba(0,0,0,.18)}
+@media (max-width:860px){
+  .hero-grid{grid-template-columns:1fr}
+  .featured{display:grid;grid-template-columns:72px 1fr;grid-auto-rows:min-content;column-gap:14px;width:auto;align-items:start}
+  .featured img{grid-row:1 / span 4;width:72px;margin:0}
+}

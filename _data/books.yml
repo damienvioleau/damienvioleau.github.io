@@ -1,6 +1,7 @@
 # ------------------------------------------------------------------
 #  Books, monographs, book chapters, lecture notes, editorial work
 #  Same fields as journal.yml (ref in double quotes, title in *stars*)
+#  Optional:  cover: "assets/img/file.jpg"  shows a cover thumbnail
 # ------------------------------------------------------------------
 
 summary:
@@ -25,6 +26,7 @@ books:
   - year: 2012
     ref: "Violeau, D., *Fluid Mechanics and the SPH Method*, Oxford University Press, Oxford, 2012, 594 p."
     url: "https://global.oup.com/academic/product/fluid-mechanics-and-the-sph-method-9780198744238"
+    cover: "assets/img/cover-sph-book.jpg"
   - year: 2012
     ref: "Ginocchio, R., Viollet, P.-L., *L’Énergie Hydraulique*, Lavoisier, Paris, 2012, 632 p. Contribution to the 2nd edition (in French)."
   - year: 2010

@@ -29,6 +29,17 @@ links:
   - label: "LHSV page"
     url: "http://stvenant.saezam.website/membres/violeau_damien"
 
+# Highlighted item shown at the top right of the page (delete the block to hide it)
+#   link: "#books" opens the Books tab of the Publications section;
+#         "#journal", "#conferences", "#bulletins", "#editor" also work
+featured:
+  image: "assets/img/cover-sph-book.jpg"
+  label: "Book"
+  title: "Fluid Mechanics and the SPH Method"
+  subtitle: "Oxford University Press, 2012"
+  link: "#books"
+  link_text: "See all books"
+
 # Key figures shown as tiles under the header (update once a year)
 metrics_date: "July 2026"
 metrics:
