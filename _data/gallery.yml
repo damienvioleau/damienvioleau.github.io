@@ -1,0 +1,10 @@
+# Photos shown in the "Miscellaneous" section.
+# Put the image file in assets/img/ and add a block below.
+- file: "assets/img/with-cedric-villani.jpg"
+  caption: "With mathematician Cédric Villani"
+- file: "assets/img/ferry.jpg"
+  caption: "On a ferry in Greece"
+- file: "assets/img/biarritz.jpg"
+  caption: "Biarritz, by the Atlantic"
+- file: "assets/img/summer-evening.jpg"
+  caption: "Summer evening"
