@@ -1,0 +1,50 @@
+# ------------------------------------------------------------------
+#  Books, monographs, book chapters, lecture notes, editorial work
+#  Same fields as journal.yml (ref in double quotes, title in *stars*)
+# ------------------------------------------------------------------
+
+summary:
+  date: "July 2026"
+  lines:
+    - "5,411 citations (2,313 since 2021), h-index 31, i10-index 61 — Google Scholar"
+    - "h-index excluding self-citations: 25 — Scopus"
+    - "3 books and 1 monograph · 2 book chapters · 1 lecture book"
+    - "84 journal papers · 125 conference papers · 28 bulletin and colloquium papers"
+    - "7 proceedings and journal special issues as editor · 70+ engineering and research reports for EDF"
+
+books:
+  - year: null
+    status: in preparation
+    ref: "Violeau, D. et al., *Hydraulics for Engineers*."
+  - year: null
+    ref: "Violeau, D., *Some basic mathematics and physics required for a good understanding of the Fluid Mechanics course*, Lecture book, École nationale des ponts et chaussées."
+    url: ""
+  - year: null
+    ref: "Violeau, D., *Contribution to the Theory of Undular Bores – A Journey around the Korteweg–de Vries Equation*, IAHR Water Monograph."
+    url: "https://www.iahr.org/index/detail/659"
+  - year: 2012
+    ref: "Violeau, D., *Fluid Mechanics and the SPH Method*, Oxford University Press, Oxford, 2012, 594 p."
+    url: "https://global.oup.com/academic/product/fluid-mechanics-and-the-sph-method-9780198744238"
+  - year: 2012
+    ref: "Ginocchio, R., Viollet, P.-L., *L’Énergie Hydraulique*, Lavoisier, Paris, 2012, 632 p. Contribution to the 2nd edition (in French)."
+  - year: 2010
+    ref: "Viollet, P.-L., Benhamadouche, S., Benoit, M., Chabard, J.-P., Violeau, D., *Problèmes Résolus de Mécanique des Fluides avec Rappels de Cours*, Presses des Ponts, Paris, 2010, 392 p. (in French)."
+  - year: 2010
+    ref: "Issa, R., Violeau, D., Lee, E.-S., Flament, H., *Modelling nonlinear water waves with RANS and LES SPH models*, in Advances in Numerical Simulation of Nonlinear Water Waves, ed. Q.W. Ma, Series of Advances in Coastal and Ocean Engineering, Vol. 11, World Scientific, 2010."
+
+editorships:
+  - year: 2025
+    ref: "Gobert, J., Versini, P.-A., Violeau, D., guest editors, *L’eau sous contraintes*, Transitions (French engineering journal), Vol. 5."
+    url: "https://www.presses-des-ponts.fr/ouvrage/sciences-humaines-sociales/transitions-les-nouvelles-annales-des-ponts-et-chaussees-n5-leau-sous-contraintes-un-objet-detude-a-lintersection-de-multiples-recherches/"
+  - year: 2023
+    ref: "Khayyer, A., Shao, S., Durante, D., Violeau, D., guest editors, *Eur. J. Mech. B/Fluids*, Vol. 98, special issue."
+  - year: 2015
+    ref: "Violeau, D., guest editor, *SPH in Hydraulics*, Hydrolink, #3, special issue."
+  - year: 2014
+    ref: "Violeau, D., Hérault, A., Joly, A., editors, *Proc. 9th SPHERIC International Workshop*, Paris, France."
+  - year: 2011
+    ref: "Violeau, D., Hervouet, J.-M., Razafindrakoto, E., Denis, C., editors, *Proc. 18th Telemac-Mascaret User Club*, Chatou, France."
+  - year: 2010
+    ref: "Gomez-Gesteira, M., Rogers, B.D., Violeau, D., Grassa, J.M., Crespo, A.J.C., guest editors, *J. Hydr. Res.*, Vol. 48, special issue."
+  - year: 2008
+    ref: "Violeau, D., guest editor, *ERCOFTAC Bulletin*, #78, special issue."

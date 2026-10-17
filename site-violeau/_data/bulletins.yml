@@ -1,0 +1,93 @@
+# Bulletins and colloquium papers (without reviewing)
+# Newest first. To add an entry, copy a block and paste it at the TOP.
+#   year:   publication year (null if not yet published)
+#   status: optional — "in preparation", "submitted" or "in press"
+#   ref:    full reference; put the title between *stars* for italics
+#   doi:    optional, e.g. 10.1016/j.jcp.2026.115219 (a link is built automatically)
+#   url:    optional link if there is no DOI
+# Always keep ref between double quotes.
+
+- year: 2023
+  ref: "Boyaval, S., Violeau, D. (2023), *Des données et des modèles en hydraulique pour gérer le risque d’inondation*, Transitions, in French."
+
+- year: 2022
+  ref: "Violeau, D. (2022), *Assessing the risk of cosmogenic tsunamis on French coasts*, Workshop for the 10th anniversary of the CENALT, Paris, France."
+
+- year: 2019
+  ref: "Bilotta, G., Violeau, D. et al. (2019), *Getting more done in less time with GPUSPH version 5*, SPHERIC Newsletter, #29."
+
+- year: 2017
+  ref: "Fonty, T., Ferrand, M., Leroy, A., Joly, A., Violeau, D. (2017), *An upwind scheme for conservative, realizable two-phase mixture SPH model with high density ratios*, SPHERIC Newsletter, #26."
+
+- year: 2017
+  ref: "Carmigniani, R., Joly, A., Leroy, A., Violeau, D. (2017), *Waves above a submerged plate: Wave mass transport*, SPHERIC Newsletter, #24."
+
+- year: 2017
+  ref: "Ghaïtanellis, A., Violeau, D., Leroy, A., Joly, A. (2017), *Improved elastic-viscoplastic model for SPH simulations of bed-load transport*, SPHERIC Newsletter, #24."
+
+- year: 2017
+  ref: "Leroy, A., Violeau, D., Hérault, A., Dalrymple, R.A., Edge, B., Rustico, E., G. Bilotta (2017), *GPUSPH open-source version 4.0*, SPHERIC Newsletter, #23."
+
+- year: 2015
+  ref: "Hébert *et al.* (2015), *Le projet TANDEM (Tsunamis en Atlantique et MaNche : Définition des Effets par Modélisation) (2014-2017) : enjeux pour les vulnérabilités littorales aux tsunamis*, Colloque de l’Association Française du Génie Parasismique, Marne-La-Vallée, France."
+
+- year: 2014
+  ref: "Dombre, E., Harris, J., Benoit, M., Peyrard, C., Violeau, D., Grilli, S.T. (2014), *Interactions vagues corps flottant avec la méthode des éléments de frontières appliquée à des grilles non-structurées*, 14e Journées de l’Hydrodynamique, Val-de-Rueil, France."
+
+- year: 2014
+  ref: "Leroy, A., Violeau, D., Joly, A., Ferrand, M. (2014), *Buoyancy modelling with incompressible SPH and the unified semi-analytical wall boundary conditions*, SPHERIC Newsletter, #18."
+
+- year: 2013
+  ref: "Lafon, F. *et al.* (2013), *The flooding hazard. State of the art prior to the elaboration of the flooding guide for nuclear installations*, ASN Workshop, Montrouge, France."
+
+- year: 2013
+  ref: "Mayrhofer, A., Laurence, D., Rogers, B.D., Violeau, D., Ferrand, D. (2013), *Direct numerical simulation of 3-D turbulent wall bounded flows with SPH*, SPHERIC Newsletter, #16."
+
+- year: 2013
+  ref: "Leroy, A., Violeau, D., Kassiotis, C., Ferrand, M. (2013), *Application of the unified semi-analytical wall boundary conditions to 2-D incompressible SPH*, SPHERIC Newsletter, #16."
+
+- year: 2012
+  ref: "Mayrhofer, A. Rogers, B.D., Violeau, D., Ferrand, M. (2012), *Differential operators in the context of the semi-analytical wall boundary conditions*, SPHERIC Newsletter, #14."
+
+- year: 2010
+  ref: "Ferrand, M., Laurence, D., Rogers, B.D., Violeau, D. (2010), *Improved time scheme integration approach for dealing with semi analytical wall boundary conditions in SPARTACUS2D*, SPHERIC Newsletter, #10."
+
+- year: 2008
+  ref: "Violeau, D., Issa, R., Buvat, C., Gariah, A. (2008), *Smoothed Particle Hydrodynamics for turbulence and applications to environmental flows*, Workshop des Graduiertenkollegs “Seehäfen fur̈ Containerschiffe zukun̈ftiger Generationen”, Hamburg, Germany."
+
+- year: 2007
+  ref: "Colagrossi, A., Colicchio, G., Le Touzé, D., Lee, E.-S., Laurence, D., Stansby, P.K., Violeau, D., Moulinec, C., Basa, M., Quinlan, N.J., Lastiwka, M. (2007), *Benchmark test case #6: Intercomparison of several models*, SPHERIC Newsletter, #4."
+
+- year: 2007
+  ref: "Crespo, A.J.C., Gómez-Gesteira, M., Dalrymple, R.A., Violeau, D., Issa, R. (2007), *Benchmark test case #5: Intercomparison of several models*, SPHERIC Newsletter, #4."
+
+- year: 2007
+  ref: "Issa, R., Lee, E.-S., Violeau, D., Gariah, A., Stansby, P.K., Laurence, D. (2007), *Wave interactions with coastal structures: quantitative predictions using SPH*, 2nd SPHERIC Int. Workshop, Madrid, Spain."
+
+- year: 2007
+  ref: "Lee, E.-S., Violeau, D., Laurence, D., Stansby, P., Moulinec, C. (2007), *SPH Benchmark test case 6: 2-D incompressible flow around a moving square inside a rectangular box*, 2nd SPHERIC Int. Workshop, Madrid, Spain."
+
+- year: 2007
+  ref: "Violeau, D., Issa, R. (2007), *SPHERIC benchmark test case number 5: Sensitivity analysis to numerical and physical parameters*, 2nd SPHERIC Int. Workshop, Madrid, Spain."
+
+- year: 2006
+  ref: "Lee, E.-S., Laurence, D., Stansby, P.K., Violeau, D., Moulinec, C. (2006), *2D flow past a square cylinder in a closed channel*, SPHERIC Newsletter, #3."
+
+- year: 2006
+  ref: "Buvat, C., Violeau, D. (2006), *Modelling a boom and oil spill motion for the management of coastal pollution,*, SPHERIC Newsletter, #3."
+
+- year: 2006
+  ref: "Rogers, B., Lee, E.-S., Violeau, D., Quinlan, N., Lastiwka, M., Basa, M. (2006), *Benchmark case 3: Lid-driven cavity flow*, SPHERIC Newsletter, #2."
+
+- year: 2005
+  ref: "Abonnel, C., Achard, J.-L., Archer, A., Buvat, C., Guittet, L., Lenes, A., Maître, T., Maniati, M., Peyrard, C., Renaud, T., Violeau, D. (2005), *Some aspects of EDF modelling and testing activities, within its marine current energy research and development project ”Hydroliennes en mer”*, CA-OE-WSI-EDF meeting, Aalbor, Denmark."
+
+- year: 2005
+  ref: "Issa, R., Violeau, D., Lee, E.-S. (2005), *Modelling laminar and turbulent flows*, SPHERIC Newsletter, #1."
+
+- year: 2005
+  ref: "Violeau, D. (2005), *Hauteur d’ascension d’une vague sur une digue : approches théorique, expérimentale et numérique*, 5e Journées Scientifiques et Techniques du CETMEF, Paris, France."
+
+- year: 2004
+  ref: "Violeau, D., Issa, R. (2004), *Modelling turbulent free surface flows with Smoothed Particle Hydrodynamics*, ERCOFTAC Bulletin, #62."
+

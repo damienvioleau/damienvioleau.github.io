@@ -1,0 +1,385 @@
+# Conference papers with reviewing
+# Newest first. To add an entry, copy a block and paste it at the TOP.
+#   year:   publication year (null if not yet published)
+#   status: optional — "in preparation", "submitted" or "in press"
+#   ref:    full reference; put the title between *stars* for italics
+#   doi:    optional, e.g. 10.1016/j.jcp.2026.115219 (a link is built automatically)
+#   url:    optional link if there is no DOI
+# Always keep ref between double quotes.
+
+- year: 2027
+  ref: "Violeau, D. (2027), *Long wave reflection at a straight coast with bottom friction*, Proc. IAHR World Congress 2027, Bari, Italy."
+
+- year: 2027
+  ref: "Dufour, C., Degand, V., Oger, G., Michel, J., Le Touzé, D., Hermange, C., Violeau, D. (2027), *A Stabilization procedure for explicitly coupled ISPH/rigid body interaction*, Proc. 19th Int. SPHERIC Workshop, Rome, Italy."
+
+- year: 2026
+  ref: "Sacher, A., Andreewsky, M., Saulnier, J.-B., Dutfoy, A., Violeau, D., Benoit, M. (2026), *Analytical sensitivity of extreme skew surge estimates to data uncertainty via implicit differentiation of the GPD likelihood*, Proc. 7th EVAN Conf., Delft, The Netherlands."
+
+- year: 2026
+  ref: "Courivaud, J.-R., Morris, M., Del Gatto, L., Moran, R., Toledo, M.A., Picault, C., El Kadi Abderrezzak, K., Violeau, D. (2026), *Update on the progress of the OVERCOME and 1 DigAURA projects: modelling of erosion by overflowing 2 of embankment structures made of coarse gap-graded 3 soils*, Proc. 7th EWG-OOE Meeting, Delft, The Netherlands."
+
+- year: 2026
+  ref: "Dufour, C., Hermange, C., Michel, J., Le Touzé, D., Degand, V., Violeau, D., Oger, G. (2026), *Stabilization of Explicitly Coupled Fluid Rigid-Body for Incompressible Smoothed Particle Hydrodynamics*, Proc. 17th World Congress on Computational Mechanics, Munich, Germany."
+
+- year: 2026
+  ref: "Violeau, D., Papoutsellis, C. (2026), *Modeling non-linear, weakly dispersive water waves: beyond the Serre–Green–Naghdi equations*, Proc. 17th World Congress on Computational Mechanics, Munich, Germany."
+
+- year: 2026
+  ref: "Yahyaoui, A., Violeau, D., Fonty, T., Simonin, O., Debenest, G., Constantinescu, G. (2026), *Free-Surface Flow Through Vegetated Media: A Comparison Between Cylinder-Resolved and Porous Models*, Proc. 16th Int. Conf. Hydroinformatics, Zaragoza, Spain."
+
+- year: 2025
+  ref: "Lee, C.H., Jaugielavicius, T., Gil, A.J., Boyaval, S., Violeau, D., Bonet, J. (2025), *A First-order conservation law system for large-strain compressible solids: Isothermal viscoelasticity*, Proc. 18th SPHERIC Int. Workshop, Barcelona, Spain."
+
+- year: 2025
+  ref: "De Sousa, C., Oger, G., Michel, J., Le Touzé, D. Violeau, D. (2025), *SPH modelling of water flow inside a porous medium using a Riemann based formulation*, Proc. 18th SPHERIC Int. Workshop, Barcelona, Spain."
+
+- year: 2025
+  ref: "De Sousa, C., Oger, G., Michel, J., Le Touzé, D. Violeau, D. (2025), *An SPH model of moving porous media with infiltration*, Proc. IAHR World Congress 2025, Singapore,."
+
+- year: 2025
+  ref: "Yahyaoui, A., Constantinescu, G., Fonty, T., El Kadi Abderrezzak, K., Violeau, D., Debenest, G., Simonin, O. (2025), *Numerical study of the flow in an array of cylinders constituting a schematic porous medium*, Proc. IAHR World Congress 2025, Singapore,."
+
+- year: 2025
+  ref: "Jouy, B., Violeau, D., Ricchiuto, M. Le, M.-H. (2025), *Numerical modeling of Favre waves in non-prismatic channels with wave breaking*, Proc. Int. Symp. Shallow Flow, Torino, Italy."
+
+- year: 2024
+  ref: "Jouy, B., Violeau, D., Ricchiuto, M. Le, M.-H., Demay, E. (2024), *Favre waves modelling: new experimental data for code validation*, Proc. Int. Symp. Environm. Hydr., Aberdeen, Scotland."
+
+- year: 2024
+  ref: "Violeau, D. (2024), *A Two-dimensional analytical storm surge model*, Proc. Int. Symp. Environm. Hydr., Aberdeen, Scotland."
+
+- year: 2023
+  ref: "Violeau, D., Jouy, B., Le, M.-H., Ricchiuto, M. (2023), *Serre and Boussinesq models for Favre waves in trapezoidal cross-sectional channels*, Proc. SimHydro Conference, Chatou, France."
+
+- year: 2023
+  ref: "Merino-Alonso, P.E., Violeau, D. (2023), *Energy conservation in ISPH*, Proc. 17th SPHERIC Int. Workshop, Island of Rhodes, Greece."
+
+- year: 2023
+  ref: "De Sousa, C., Oger, G., Violeau, D., Le Touzé, D. (2023), *Modelling elastic structures using SPH: comparison between Riemann-based and diffusive term-based stabilization*, Proc. 17th SPHERIC Int. Workshop, Island of Rhodes, Greece."
+
+- year: 2023
+  ref: "Jouy, B., Violeau, D., Ricchiuto, M., Le, M.-H., Demay, E. (2023), *Using a Boussinesq-type 1-D model to simulate Favre waves*, Proc. IAHR World Congress 2023, Vienna, Austria."
+
+- year: 2023
+  ref: "Violeau, D. (2023), *A Serre-like dispersive wave model for prismatic, arbitrary cross-section channels*, Proc. IAHR World Congress 2023, Vienna, Austria."
+
+- year: 2023
+  ref: "Violeau, D., El Kadi Abderrezzak, K., Buvat, C., Gueguen, N., Castro-Orgaz, O. (2023), *Studying the free surface profile upstream of a grid clogged by aquatic plants*, Proc. IAHR World Congress 2023, Vienna, Austria."
+
+- year: 2023
+  ref: "Jouy, B., Le, M., Ricchiuto, M., Violeau, D. (2023), *A Conservative numerical approach for dispersive waves in 1-D channels*, Proc. Computational Fluids Conference 2023, Cannes, France."
+
+- year: 2022
+  ref: "Villefer, A., Benoit, M., Violeau, D., Teles, M., Luneau, C. (2022), *Etude expérimentale de submersion de protections côtières pour des états de mer combinant houle et clapot*, Proc. 17e Journées Nationales Génie Côtier – Génie Civil, Chatou, France."
+
+- year: 2022
+  ref: "Ferrand, M., Dong, Z., Violeau, D. (2022), *Boundary integral approach for axisymmetric SPH*, Proc. 16th SPHERIC Int. Workshop, Catania, Italy."
+
+- year: 2022
+  ref: "Villefer, A., Benoit, M., Violeau, D., Rodrigues-Teles, M., Luneau, C., Branger, H. (2022), *Wind-wave modification in the presence of swell: From laboratory observations to coastal scale simulations*, Proc. 28th WISE meeting, Brest, France."
+
+- year: 2022
+  ref: "Villefer, A., Violeau, D., Benoit, M., Branger, H. (2022), *Wind over paddle-waves: An experimental and numerical approach*, Proc. IAHR World Congress 2022, Granada, Spain."
+
+- year: 2022
+  ref: "Violeau, D. (2022), *A simple analytic description of Favre waves*, Proc. IAHR World Congress 2022, Granada, Spain."
+
+- year: 2022
+  ref: "Violeau, D. (2022), *Can asteroids determine a tsunami on European Atlantic coasts?*, Proc. IAHR World Congress 2022, Granada, Spain."
+
+- year: 2021
+  ref: "Carmigniani, R., Prétot, C., Violeau, D., Cohen, C., Clanet, C. (2021), *Velocity–Stroke rate in paddle sports*, Proc. Sports Physics Conf. 2021, Lyon, France."
+
+- year: 2021
+  ref: "Villefer, A., Benoit, M., Violeau, D., Rodrigues-Teles, M., Luneau, C., Branger, H. (2021), *Experimental and numerical characterization of swell-type waves effect on wind-sea growth with fetch*, Proc. 27th WISE meeting, Bergen, Norway."
+
+- year: 2021
+  ref: "Rifai, I., Kheloui, L., Bourban, S., Erpicum, S., Archambeau, P., Pirotton, M., Violeau, D., Dewals, B., El Kadi Abderrezzak, K. (2021), *Laser Profilometry Technique for Nonintrusive and Subaquaous 3D geometry reconstructions*, Proc. Experimental Methods and Laboratory Instrumentation in Hydraulics, Webinar."
+
+- year: 2021
+  ref: "Mokos, A., Violeau, D., Fonty, T., Bercovitz. (2021), *SPH Simulation of Water Chute Disaggregation*, Proc. 15th SPHERIC Int. Workshop, Newark, USA."
+
+- year: 2021
+  ref: "Ghaïtanellis, A., Violeau, D., Liu, P.L.F., Ferrand, M. (2021), *SPH simulation of the 2007 Chehalis Lake landslide and subsequent tsunami*, Proc. 15th SPHERIC Int. Workshop, Newark, USA."
+
+- year: 2020
+  ref: "Rifai, I., El kadi Abderrezzak, K., Hager, W., Erpicum, S., Archambeau, P., Violeau, D., Pirotton, M., Dewals, B. (2020), *Addition of fine material is expected to strengthen fluvial dikes... Does it really?*, Proc. EGU General Assembly, Vienna, Austria."
+
+- year: 2019
+  ref: "Ghaïtanellis, A., Violeau, D., Liu, P.L.-F., Leroy, A., Ferrand, M. (2019), *Simulation of the 2007 Chehalis Lake landslide-generated tsunami with SPH*, Proc. 16th Ann. Meet. Asia Oceania Geosc. Soc., Singapore, Singapore."
+
+- year: 2019
+  ref: "Moreira, A., Manso, P., Violeau, D., Taveira Pinto, F. (2019), *SPH simulation of vertical high-speed jet flow from a circular nozzle with bottom pressures prediction*, Proc. 14th SPHERIC Int. Workshop, Exeter, UK."
+
+- year: 2019
+  ref: "Mokos, A., Carmigniani, R., Leroy, A., Violeau, D. (2019), *Simulating wave overtopping on a complex dike structure using GPUSPH*, Proc. 14th SPHERIC Int. Workshop, Exeter, UK."
+
+- year: 2019
+  ref: "Fonty, T., Ferrand, M., Leroy, A., Violeau, D. (2019), *A first air entrainment SPH model using a two-phase mixture formulation*, Proc. 14th SPHERIC Int. Workshop, Exeter, UK."
+
+- year: 2019
+  ref: "Violeau, D., Fonty, T. (2019), *Exact calculation of the SPH smoothing error*, Proc. 14th SPHERIC Int. Workshop, Exeter, UK."
+
+- year: 2019
+  ref: "Moreira, A., Leroy, A., Violeau, D., Taveira-Pinto, F. (2019), *Meshfree vs. mesh-based modelling of turbulent flows in dams*, Proc. CMN 2019, Minho, Portugal."
+
+- year: 2019
+  ref: "Fonty, T., Ferrand, M., Leroy, A., Violeau, D. (2019), *Air entrainment modelling using a Lagrangian accurate numerical model for high-density ratio two-phase mixtures*, Proc. 10th Int. Conf. Multiphase Flow, Rio de Janeiro, Brasil."
+
+- year: 2019
+  ref: "Violeau, D. (2019), *Improving the theoretical prediction of turbulent quantities in a turbulent straight pipe flow*, Proc. IAHR World Congress 2019, Panama City, Panama."
+
+- year: 2019
+  ref: "Ghaïtanellis, A., Violeau, D., Liu, P.L.-F., Leroy, A., Ferrand, M. (2019), *Modelling flows involving highly dynamic interactions between granular material and water with SPH*, Proc. IAHR World Congress 2019, Panama City, Panama."
+
+- year: 2019
+  ref: "Rifai, I., El kadi Abderrezzak, K., Dewals, B., Hager, W., Violeau, D., Erpicum, S., Archambeau, P., Pirotton, M. (2019), *Overtopping induced fluvial dike breaching: lessons from experimental and numerical studies*, Proc. IAHR World Congress 2019, Panama City, Panama."
+
+- year: 2018
+  ref: "Fonty, T., Ferrand, M., Leroy, A., Joly, A., Violeau, D. (2018), *A Lagrangian accurate numerical model for high-density ratio two-phase mixtures*, Proc. Dispersed Two-Phase Flows, Toulouse, France."
+
+- year: 2018
+  ref: "Fonty, T., Ferrand, M., Leroy, A., Joly, A., Violeau, D. (2018), *An upwind scheme for conservative, realizable two-phase mixture SPH model with high density ratios*, Proc. 13th SPHERIC Int. Workshop, Galway, Ireland."
+
+- year: 2018
+  ref: "Moreira, A., Leroy, A., Violeau, D., Taveira Pinto, F. (2018), *Simulating spillway flows with the SPH method*, Proc. 13th SPHERIC Int. Workshop, Galway, Ireland."
+
+- year: 2018
+  ref: "Rifai, I., El kadi Abderrezzak, K., Violeau, D., Erpicum, S., Archambeau, P., Pirotton, M., Dewals, B. (2018), *Experimental and numerical modelling of fluvial dike breaching due to flow overtopping*, Proc. 5th IAHR Europ. Conf., Trento, Italy."
+
+- year: 2018
+  ref: "Carmigniani, R., Violeau, D. (2018), *Wave pump: SPH modeling of waves above a submerged plate*, Proc. 5th IAHR Europ. Conf., Trento, Italy."
+
+- year: 2018
+  status: submitted
+  ref: "Rifai, I., El Kadi Abderrezzak, K., Erpicum, S., Archambeau, P., Violeau, D., Pirotton, M., Dewals, B. (2018), *Experimental investigation of fluvial dike breaching due to flow overtopping*, Proc. AGU Fall Meeting (submitted), New Orleans, USA."
+
+- year: 2017
+  ref: "Ata, R., Le Gal, M., Violeau, D. (2017), *An overview on the capabilities of the Telemac-Mascaret system to deal with tsunamis: Feedbacks from TANDEM project*, Proc. Telemac-Mascaret User Club, Graz, Austria."
+
+- year: 2017
+  ref: "Le Gal, M., Ata, R., Violeau, D. (2017), *Capabilities of shallow water equations to reproduce real tsunamis, cases of Tohoku 2011 and Gisborne 1947*, Proc. 14th US Nat. Cong. Comput. Mech., Montreal, Canada."
+
+- year: 2017
+  ref: "Ghaïtanellis, A., Violeau, D., Ferrand, M., Leroy, A., Joly, A. (2017), *Improved elastic-viscoplastic model for SPH simulations of bed-load transport and scouring*, Proc. 12th SPHERIC Int. Workshop, Ourense, Spain."
+
+- year: 2017
+  ref: "Carmigniani, R., Leroy, A., Joly, A., Violeau, D. (2017), *Submerged plate wave energy converter SPH simulations: wave mass transport*, Proc. 12th SPHERIC Int. Workshop, Ourense, Spain."
+
+- year: 2017
+  ref: "Fonty, T., Milla Lopez Asiain, J., Leroy, A., Guyot, G., Violeau, D., Joly, A. (2017), *Numerical modelling of the sluice gates of the Rance tidal power station with SPH*, Proc. 12th SPHERIC Int. Workshop, Ourense, Spain."
+
+- year: 2017
+  ref: "Violeau, D., Lind, S., Dehnen, W. (2017), *Convergence rate of the SPH Poisson equation on a Cartesian grid*, Proc. 12th SPHERIC Int. Workshop, Ourense, Spain."
+
+- year: 2017
+  ref: "Loevenbruck, A., Arpaia, L., Ata, R., Gailler, A., Hayashi, Y., Hébert, H., Heinrich, P., Le Gal, M., Lemoine, A., Le Roy, S., Marcer, R., Pedreros, R., Pons, K., Ricchiuto, L., Violeau, D. (2017), *Joint numerical study of the 2011 Tohoku-Oki tsunami: Comparative propagation simulations and high resolution coastal models*, Proc. EGU Gen. Assembly, Vienna, Austria."
+
+- year: 2017
+  ref: "Rifai, I., Erpicum, S., Archambeau, P., Violeau, D., Pirotton, M., El kadi Abderrezzak, K., Dewals, B. (2017), *Fluvial dike breaching due to overtopping: how different is it from dam breaching?*, Proc. EGU Gen. Assembly, Vienna, Austria."
+
+- year: 2017
+  ref: "Dewals, B., Rifai, I., Erpicum, S., Archambeau, P. Violeau, D., Pirotton, M., El kadi Abderrezzak, K. (2017), *A Laser profilometry technique for monitoring fluvial dike breaching in laboratory experiments*, Proc. EGU Gen. Assembly, Vienna, Austria."
+
+- year: 2017
+  ref: "Carmigniani, R., Violeau, D., Gharib, M. (2017), *Resonance wave pumping: wave mass transport pumping*, Proc. 69th Ann. Meeting APS Division of Fluid Dyn., Portland, USA."
+
+- year: 2017
+  ref: "Rifai, I., Erpicum, S., Archambeau, P., Violeau, D., Pirotton, M., Dewals, B., El kadi Abderrezzak, K. (2017), *Physical modeling of overtopping induced fluvial dike failure*, Proc. 37th IAHR World Conf., Kuala Lumpur , Malaysia."
+
+- year: 2017
+  ref: "Ghaïtanellis, A., Violeau, D., Leroy, A., Joly, A., El-Kadi Abderrezzak, K. (2017), *A SPH sediment model for scouring*, Proc. 37th IAHR World Conf., Kuala Lumpur , Malaysia."
+
+- year: 2017
+  ref: "Carmigniani, R., Violeau, D., Gharib, M. (2017), *Resonance wave pumping: experiment and theory*, Proc. 37th IAHR World Conf., Kuala Lumpur , Malaysia."
+
+- year: 2016
+  ref: "Carmigniani, R., Leroy, A., Joly, A., Violeau, D. (2016), *SPH modeling of resonance wave pumping in closed tank: Parametric study*, Proc. 11th SPHERIC Int. Workshop, Munich, Germany."
+
+- year: 2016
+  ref: "Chicheportiche, J., Hergault, V., Yates, M., Raoult, C., Leroy, A., Joly, A., Violeau, D. (2016), *Coupling SPH with a potential Eulerian model for wave propagation problems*, Proc. 11th SPHERIC Int. Workshop, Munich, Germany."
+
+- year: 2016
+  ref: "Ghaïtanellis, A., Violeau, D., Leroy, A., Joly, A., Ferrand, M. (2016), *Improved Shields criterion for SPH simulations of bed-load transport and scouring*, Proc. 11th SPHERIC Int. Workshop, Munich, Germany."
+
+- year: 2016
+  ref: "Violeau, D., Hérault, Leroy, A., Joly, A. (2016), *A first spectral analysis of the SPH Laplacian*, Proc. 11th SPHERIC Int. Workshop, Munich, Germany."
+
+- year: 2016
+  ref: "Joly, A., Ferrand, M., Violeau, D., Leroy, A. (2016), *Applying Riemann solvers to open boundaries in free surface and confined flows*, Proc. 11th SPHERIC Int. Workshop, Munich, Germany."
+
+- year: 2016
+  ref: "Rifai, I., Erpicum, S., Archambeau, P., Violeau, D., Pirotton, M., Dewals, B., El kadi Abderrezzak, K. (2016), *Sensitivity of the breaching process in the case of overtopping induced fluvial dike failure*, Proc. River Flow, Iowa City, USA."
+
+- year: 2016
+  ref: "Bercovitz, Y., Lebert, F., Jodeau, M., Buvat, C., Violeau, D., Pelaprat, L., Hajczak, A. (2016), *LS-PIV procedure applied to a plunging water jet issuing from an overflow nappe*, Proc. 4th IAHR Europ. Conf., Liege, Belgium."
+
+- year: 2016
+  ref: "Rifai, I., Erpicum, S., Archambeau, P., Violeau, D., Pirotton, M., Dewals, B., El kadi Abderrezzak, K. (2016), *Failure of fluvial dikes: how does the flow in the main channel influence the breach development?*, Proc. 4th IAHR Europ. Conf., Liege, Belgium."
+
+- year: 2016
+  ref: "Violeau, D. et al. (2016), *A database of validation cases for tsunami numerical modelling*, Proc. 4th IAHR Europ. Conf., Liege, Belgium."
+
+- year: 2016
+  ref: "Ghaïtanellis, A., Violeau, D., Leroy, Joly, A., Ferrand, M. (2016), *A two-fluid SPH model for landslides*, Proc. 4th IAHR Europ. Conf., Liege, Belgium."
+
+- year: 2016
+  ref: "Le Gal, M., Violeau, D. (2016), *Tsunami seismic generation and propagation: Validity of the Shallow Water Equations*, Proc. 4th IAHR Europ. Conf., Liege, Belgium."
+
+- year: 2016
+  ref: "Le Gal, M., Violeau, D., Benoit, M. (2016), *Linear solution for generation of tsunami waves with ground motion and timescales*, Proc. 35th Int. Conf. Coast. Engng., Istanbul, Turkey."
+
+- year: 2016
+  ref: "Rifai, I., Erpicum, S., Archambeau, P., Violeau, D., Pirotton, M., El kadi Abderrezzak, K., Dewals, B. (2016), *Monitoring topography of laboratory fluvial dyke models subjected to breaching based on a laser profilometry technique*, Proc. 13th Int. Symp. on River Sedimentation, Stuttgart, Germany."
+
+- year: 2015
+  ref: "Carmigniani, R., Morteza, G., Violeau, D. (2015), *Resonance wave pumping with surface waves*, Proc. 68th Ann. Meeting APS Division of Fluid Dyn., Boston, USA."
+
+- year: 2015
+  ref: "Violeau, D. (2015), *Smoothed Particle Hydrodynamics: Towards accurate Lagrangian flow prediction*, Proc. 16th Int. Conf. on Fluid Flow Technol., Budapest, Hungary."
+
+- year: 2015
+  ref: "Ghaïtanellis, A., Violeau, D., Ferrand, M., Leroy, A. (2015), *Application of the unified semi-analytical wall boundary conditions to multi-phase SPH*, Proc. 10th SPHERIC Int. Workshop, Parma, Italy."
+
+- year: 2015
+  ref: "Leroy, A., Violeau, D., Ferrand, M., Joly, A., Fratter, L. (2015), *Open boundary conditions for ISPH with the unified semi-analytical boundary conditions*, Proc. 10th SPHERIC Int. Workshop, Parma, Italy."
+
+- year: 2015
+  ref: "Violeau, D., Leroy, A. (2015), *Chosing the time step in ISPH*, Proc. 10th SPHERIC Int. Workshop, Parma, Italy."
+
+- year: 2015
+  ref: "Violeau, D., Peyrard, C., Dombre, E. (2015), *The use of symplectic time integrators in hydroinformatics*, Proc. 36th IAHR World Conf., The Hague, The Netherlands."
+
+- year: 2015
+  ref: "Leroy, A., Violeau, D., Joly, A., Ferrand, M. (2015), *Buoyancy modeling in SPH with appropriate boundary conditions*, Proc. 36th IAHR World Conf., The Hague, The Netherlands."
+
+- year: 2014
+  ref: "Bilotta, G., Vorobyev, A., Mayrhofer, A., Hérault, A., Violeau, D. (2014), *Modelling real-life flows in hydraulic waterworks with GPUSPH*, Proc. 9th SPHERIC Int. Workshop, Paris, France."
+
+- year: 2014
+  ref: "Mayrhofer, A., Laurence, D., Rogers, B., Violeau, D. (2014), *Large eddy simulation with SPH: Mission impossible?*, Proc. 9th SPHERIC Int. Workshop, Paris, France."
+
+- year: 2014
+  ref: "Leroy, A., Violeau, D., Ferrand, M., Joly, A. (2014), *Buoyancy modelling with incompressible SPH and unified semi-analytical wall boundary conditions*, Proc. 9th SPHERIC Int. Workshop, Paris, France."
+
+- year: 2014
+  ref: "Violeau, D., Mayrhofer, A., Leroy, A. (2014), *Exact computation of SPH wall renormalising integrals in 3-D*, Proc. 9th SPHERIC Int. Workshop, Paris, France."
+
+- year: 2014
+  ref: "Joly, A., Gagnaire-Renou, E., Benoit, M., Violeau, D. (2014), *Numerical modeling of wind waves on a river flood plain*, Proc. 3rd IAHR Europ. Conf., Porto, Portugal."
+
+- year: 2014
+  ref: "Violeau, D., Ferrand, M., Mayrhofer, A., Leroy, A., Vorobyev, A., Hérault, A. (2014), *Application of SPH to real-world free-surface flows*, Proc. 3rd IAHR Europ. Conf., Porto, Portugal."
+
+- year: 2014
+  ref: "Hébert *et al.* (2014), *Project TANDEM (Tsunamis in the Atlantic and the English ChaNnel: Definition of the Effects through numerical Modeling) (2014-2018): A French initiative to draw lessons from the Tohoku-oki tsunami on French coastal nuclear facilities*, Proc. EGU Gen. Assembly, Vienna, Austria."
+
+- year: 2013
+  ref: "Kassiotis, C., Ferrand, M., Violeau, D. (2013), *Semi-analytical conditions for open boundaries in SPH*, Proc. 8th SPHERIC Int. Workshop, Trondheim, Norway."
+
+- year: 2013
+  ref: "Mayrhofer, A., Laurence, D., Rogers, B.D., Violeau, D., Ferrand, M. (2013), *Direct numerical simulation of 3-D turbulent wall bounded flows with SPH*, Proc. 8th SPHERIC Int. Workshop, Trondheim, Norway."
+
+- year: 2013
+  ref: "Leroy, A., Violeau, D., Ferrand, M., Kassiotis, C. (2013), *Application of the unified semi-analytical wall boundary conditions to incompressible SPH*, Proc. 8th SPHERIC Int. Workshop, Trondheim, Norway."
+
+- year: 2013
+  ref: "Gagnaire-Renou, E., Violeau, D., Delisle, J.-R., Malleron, N., Benoit, M. (2013), *Scale model of overtopping of waves propagating laterally to a structure*, Proc. 35th IAHR World Conf., Chengdu, China."
+
+- year: 2012
+  ref: "Violeau, D., Ferrand, M., Mayrhofer, A., Mahmood, O. (2012), *Correct boundary conditions for turbulent SPH*, Proc. 2nd SimHydro conference, Nice, France."
+
+- year: 2012
+  ref: "Mayrhofer, A., Rogers, B.D., Violeau, D., Ferrand, M. (2012), *Study of differential operators in the context of the semi-analytical wall boundary conditions*, Proc. 7th SPHERIC Int. Workshop, Prato, Italy."
+
+- year: 2012
+  ref: "Mahmood, O., Violeau, D., Kassiotis, C., Rogers, B., Ferrand, M. (2012), *Absorbing inlet/outlet boundary conditions for SPH 2-D turbulent free-surface flows*, Proc. 7th SPHERIC Int. Workshop, Prato, Italy."
+
+- year: 2011
+  ref: "Kassiotis, C., Rogers, B.D., Ferrand, M., Violeau, D., Stansby, P.K., Benoit, M. (2011), *Coupling SPH with a 1–D Boussinesq type wave model*, Proc. 6th SPHERIC Int. Workshop, Hamburg, Germany."
+
+- year: 2011
+  ref: "Mahmood, O., Violeau, D., Kassiotis, C., Ferrand, M., Mayrhofer, A. (2011), *Effect of wall boundary treatment in SPH for modelling turbulent flows with inlet/outlet boundary conditions*, Proc. 6th SPHERIC Int. Workshop, Hamburg, Germany."
+
+- year: 2011
+  ref: "Ferrand, M., Rogers, B., Laurence, D., Violeau, D. (2011), *Consistent wall boundary treatment for laminar and turbulent flows in SPH*, Proc. 6th SPHERIC Int. Workshop, Hamburg, Germany."
+
+- year: 2011
+  ref: "Ferrand, M., Kassiotis, C., Mahmood, O., Violeau, D. (2011), *Comparison of the SPH and Finite Volume methods for simulating free-surface and confined flows*, Proc. Proc. 34th IAHR World Conf., Brisbane, Australia."
+
+- year: 2011
+  ref: "Kassiotis, C., Rogers, B., Stansby, P., Violeau, D., Benoit, M. (2011), *Un couplage fluide-fluide de type Boussinesq-SPH pour des calculs à proximité de structures hydroliennes*, Proc. 10th workshop “Colloque National en Calcul des Structures”, Presqu’île de Giens, France."
+
+- year: 2010
+  ref: "Ferrand, M., Laurence, D., Rogers, B., Violeau, D. (2010), *Improved time scheme integration approach for dealing with semi-analytical wall boundary conditions in Spartacus-2D*, Proc. 5th SPHERIC Int. Workshop, Manchester, UK."
+
+- year: 2010
+  ref: "Joly, A., Violeau, D., Minier, J.-P. (2010), *Modelling of the turbulent diffusion of algae in a coastal environment through a stochastic method with an exact integrator*, Proc. 1st IAHR Europ. Conf., Edinburgh , UK."
+
+- year: 2009
+  ref: "Lee, E.-S., Violeau, D., Issa, R., Ploix, S., Marc, R. (2009), *Simulating a real dam spillway flow with 3-D SPH*, Proc. 4th SPHERIC Int. Workshop, Nantes, France."
+
+- year: 2009
+  ref: "Violeau, D., Ferrand, M. (2009), *Deriving analytical damping functions from an explicit algebraic turbulent stress model for stratified flows*, Proc. 33rd IAHR World Conf., Vancouver, Canada."
+
+- year: 2009
+  ref: "Lee, E.-S., Violeau, D., Issa, R., Ploix, S., Thibault, G. (2009), *Modéliser les évacuateurs de crue avec la méthode numérique SPH*, Proc. SHF Colloquium “Dimensionnement et fonctionnement des évacuateurs de crue”, Paris, France."
+
+- year: 2008
+  ref: "Issa, R., Lee, E.S., Violeau, D., Veyzolles, P., Biddiscombe, J., Thibaud, G., Ploix, S. (2008), *HPC for Smoothed Particle Hydrodynamics: applications to coastal and river flows*, Proc. ICCES Special Symp. on Meshless & Other Novel Comput. Meth., Suzhou, China."
+
+- year: 2008
+  ref: "Issa, R., Moulinec, C., Latino, D., Violeau, D., Biddiscombe, J., Thibaud, G. (2008), *HPC for Spartacus-3D SPH code and applications to industrial environmental flows*, Proc. 3rd SPHERIC Int. Workshop, Lausanne, Switzerland."
+
+- year: 2008
+  ref: "Violeau, D., Issa, R., Benhamadouche, S., Saleh, K., Chorda, J., Maubourguet, M.-M. (2008), *Modelling a fish passage with SPH and Eulerian codes: The influence of turbulent closure*, Proc. 3rd SPHERIC Int. Workshop, Lausanne, Switzerland."
+
+- year: 2008
+  ref: "Issa, R., Decung, F., Razafindrakoto, E., Moulinec, C., Latino, D., Boiteau, O., Violeau, D. (2008), *HPC for hydraulics and industrial environmental flow*, Proc. 20th Int. Conf. on Parallel Comput. Fluid Dyn., Lyon, France."
+
+- year: 2007
+  ref: "Lee, E.-S., Moulinec, C., Violeau, D., Laurence, D., Stansby, P. (2007), *2-D flow past a bluff body in a closed channel*, Proc. 32th IAHR World Conf., Venice, Italy."
+
+- year: 2007
+  ref: "Violeau, D., Issa, R. (2007), *Influence of turbulence closure on free-surface flow modelling with SPH*, Proc. 32th IAHR World Conf., Venice, Italy."
+
+- year: 2007
+  ref: "Boulet, T., Violeau, D. (2007), *Modelling the impact of climate change on extreme storm surges on French coasts*, Proc. 32nd IAHR World Conf., Venice, Italy."
+
+- year: 2006
+  ref: "Lee, E.-S., Violeau, D., Benoit, M., Issa, R., Laurence, D., Stansby, P. (2006), *Prediction of wave overtopping on coastal structures by using extended Boussinesq and SPH models*, Proc. 30th Int. Conf. on Coastal Engng., San Diego, USA."
+
+- year: 2006
+  ref: "Buvat, C., Violeau, D. (2006), *Lagrangian numerical modelling of boom and oil spill motion for the management of coastal pollution risk*, Proc. 7th Int. Conf. on Hydroinformatics, Nice, France."
+
+- year: 2005
+  ref: "Violeau, D., Issa, R. (2005), *Modelling wave overtopping with Smoothed Particle Hydrodynamics*, Proc. 31st IAHR World Conf., Seoul, South Korea."
+
+- year: 2005
+  ref: "Issa, R., Violeau, D., Laurence, D. (2005), *A first attempt to adapt 3D Large Eddy Simulation to the Smoothed Particle Hydrodynamics gridless method*, Proc. Int. Conf. Comput. and Experimental Engng. and Sc., Stara-Lesna, Slovakia."
+
+- year: 2004
+  ref: "Violeau, D. (2004), *One and two-equations turbulent closures for Smoothed Particle Hydrodynamics*, Proc. 6th Int. Conf. on Hydroinformatics, Singapore, Singapore."
+
+- year: 2003
+  ref: "Violeau, D. (2003), *Theoretical estimation of wave runup on a breakwater*, Proc. 30th IAHR World Conf., Thessaloniki, Greece."
+
+- year: 2002
+  ref: "Benoit, M., Violeau, D. (2002), *Progress in building a wave climate database along the French coasts through numerical hindcast simulation over a 20-years period*, Proc. 3rd Int. Conf. on EuroGOOS, Athens, Greece."
+
+- year: 2001
+  ref: "Violeau, D., Piccon, S., Chabard, J.-P. (2001), *Two attempts of Turbulence Modelling in Smoothed Particle Hydrodynamics*, Proc. 8th Int. Symp. on Flow Modeling and Turb. Meas., Tokyo, Japan."
+
+- year: 2000
+  ref: "Cheviet, C., Violeau, D., Guesmia, M. (2000), *Numerical simulation of cohesive sediment transport in the Loire estuary with a three-dimensional model including new parameterisations*, Proc. Int. Cohesive Sed. Dyn. Meetings, Delft, The Netherlands."
+
+- year: 2000
+  ref: "Violeau, D., Bourban, S., Cheviet, C., Markofsky, M., Petersen, O., Roberts, W., Spearman, J., Toorman, E., Vested, H.J., Weilbeer, H. (2000), *Numerical simulation of cohesive sediment transport: Intercomparison of several numerical models*, Proc. Int. Cohesive Sed. Dyn. Meetings, Delft, The Netherlands."
+
+- year: 2000
+  ref: "Berlamont, J., Toorman, E., Dyer, K., Winterwerp, H., Roberts, B., Violeau, D., Markofsky, M. (2000), *Prediction of cohesive Sediment transport and bed dynamics in estuaries and coastal zones with integrated numerical simulation models*, Proc. 7th Federal Interagency Sedimentation Conf., Reno, USA."
+
+- year: 2000
+  ref: "Violeau, D., Chauvelier-Alario, C., Foucart, A., Benoit, M. (2000), *Development of a Numerical Wave Flume Using Smoothed Particle Hydrodynamics*, Proc. 27th Int. Conf. Coastal Engng., Sydney, Australia."
+
