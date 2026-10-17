@@ -1,5 +1,0 @@
-I am a senior researcher at **EDF R&D**, in the National Laboratory for Hydraulics and Environment (LNHE), and at the **Saint-Venant Laboratory for Hydraulics (LHSV)**, a joint laboratory of EDF and École des Ponts. I am also **Professor at École nationale des ponts et chaussées** (Institut Polytechnique de Paris), where I teach fluid mechanics and the SPH method.
-
-My research lies in environmental fluid mechanics and hydraulics: free-surface flows, water waves and tsunamis, turbulence modelling, Lagrangian and stochastic descriptions of fluids, flows in porous media and the numerical methods that go with them — in particular *Smoothed Particle Hydrodynamics* (SPH), for which I founded the international SPHERIC community in 2005. I like to keep theory, numerical modelling and real-life engineering problems close together, from dam spillways and coastal dykes to Favre waves in hydropower channels.
-
-I have supervised or co-supervised more than twenty PhD theses, and I am the author of *Fluid Mechanics and the SPH Method* (Oxford University Press, 2012) and of the IAHR Water Monograph on undular bores and the Korteweg–de Vries equation.
