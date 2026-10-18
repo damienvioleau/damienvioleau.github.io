@@ -12,6 +12,7 @@ layout: default
     <button class="nav-toggle" aria-label="Menu" aria-expanded="false">☰</button>
     <ul class="nav-links">
       <li><a href="#about">About</a></li>
+      {% if site.data.videos.size > 0 %}<li><a href="#videos">Videos</a></li>{% endif %}
       <li><a href="#career">Career</a></li>
       <li><a href="#supervision">Supervision</a></li>
       <li><a href="#teaching">Teaching</a></li>
@@ -76,6 +77,20 @@ layout: default
     </aside>
   </div>
 </section>
+
+{% if site.data.videos.size > 0 %}
+<section class="wrap" id="videos">
+  <h2>Videos</h2>
+  {% for v in site.data.videos %}
+  <figure class="video">
+    <video controls preload="metadata" playsinline {% if v.poster %}poster="{{ v.poster }}"{% endif %}>
+      <source src="{{ v.file }}" type="video/mp4">
+    </video>
+    <figcaption><b>{{ v.title }}</b><br>{{ v.caption | markdownify | remove: '<p>' | remove: '</p>' }}</figcaption>
+  </figure>
+  {% endfor %}
+</section>
+{% endif %}
 
 <section class="wrap" id="career">
   <h2>Career</h2>

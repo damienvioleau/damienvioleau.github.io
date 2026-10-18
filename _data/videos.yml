@@ -1,0 +1,15 @@
+# ------------------------------------------------------------------
+#  Videos shown in the "Videos" section (just after About).
+#  Put the .mp4 file in assets/video/ (max. ~90 MB per file on GitHub;
+#  larger videos must be compressed first, or hosted on YouTube/Vimeo).
+#    file:    path to the .mp4
+#    poster:  optional still image shown before playback
+#    title:   short title
+#    caption: description (Markdown allowed: *italics*, **bold**, [link](url))
+# Delete every entry to hide the section.
+# ------------------------------------------------------------------
+
+- file: "assets/video/gpusph-chehalis-lake.mp4"
+  poster: "assets/video/gpusph-chehalis-lake-poster.jpg"
+  title: "The 2007 Chehalis Lake landslide tsunami, simulated with SPH"
+  caption: "GPUSPH simulation of the landslide (dark particles, coloured by velocity) entering Chehalis Lake, British Columbia, and of the tsunami it generates (blue particles, coloured by velocity). See Ghaïtanellis, Violeau, Liu & Viard (2021), *J. Hydr. Res.* **59**:863–887."

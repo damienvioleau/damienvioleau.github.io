@@ -181,3 +181,9 @@ aside h3:first-child{margin-top:.2rem}
   .featured{display:grid;grid-template-columns:72px 1fr;grid-auto-rows:min-content;column-gap:14px;width:auto;align-items:start}
   .featured img{grid-row:1 / span 4;width:72px;margin:0}
 }
+
+/* ---------- Videos ---------- */
+.video{margin:0 0 1.6rem}
+.video video{width:100%;display:block;border-radius:12px;background:#000;box-shadow:0 6px 24px rgba(0,0,0,.12);aspect-ratio:16/9.35}
+.video figcaption{font-size:.92rem;color:var(--muted);margin-top:.6rem;max-width:860px}
+.video figcaption b{color:var(--ink)}
