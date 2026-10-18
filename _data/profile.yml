@@ -41,7 +41,7 @@ featured:
   link_text: "See all books"
 
 # Key figures shown as tiles under the header (update once a year)
-metrics_date: "July 2026"
+metrics_date: "October 2026"
 metrics:
   - value: "5,411"
     label: "citations (Google Scholar)"

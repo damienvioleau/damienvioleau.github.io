@@ -3,13 +3,14 @@
 #   year:   publication year (null if not yet published)
 #   status: optional — "in preparation", "submitted" or "in press"
 #   ref:    full reference; put the title between *stars* for italics
+#           (end with a single period: never ".." after an abbreviation such as "J. Fluid Mech.")
 #   doi:    optional, e.g. 10.1016/j.jcp.2026.115219 (a link is built automatically)
 #   url:    optional link if there is no DOI
 # Always keep ref between double quotes.
 
 - year: null
   status: in preparation
-  ref: "Violeau, D., *A relaxed variational derivation of the Serre–Green–Naghdi equations with bottom friction over an arbitrarily moving bed*, J. Fluid Mech.."
+  ref: "Violeau, D., *A relaxed variational derivation of the Serre–Green–Naghdi equations with bottom friction over an arbitrarily moving bed*, J. Fluid Mech."
 
 - year: null
   status: in preparation
@@ -17,7 +18,7 @@
 
 - year: null
   status: in preparation
-  ref: "Violeau, D., Bourban, S., *A Two-dimensional analytical model of offshore wind surge*, Coast. Eng. J.."
+  ref: "Violeau, D., Bourban, S., *A Two-dimensional analytical model of offshore wind surge*, Coast. Eng. J."
 
 - year: null
   status: in preparation
@@ -25,27 +26,27 @@
 
 - year: null
   status: in preparation
-  ref: "Ricchiuto, M., Violeau, D., Jouy, B., *Theoretical estimation of the leading wave length in bores*, J. Fluid Mech.."
+  ref: "Ricchiuto, M., Violeau, D., Jouy, B., *Theoretical estimation of the leading wave length in bores*, J. Fluid Mech."
 
 - year: null
   status: in preparation
-  ref: "Jouy, B., Violeau, D., Ricchiuto, M., Gueguen, N., *New experimental data on Favre waves in channels. Part II: prismatic, trapezoidal sectional and non-prismatic channels*, J. Hydr. Res.."
+  ref: "Jouy, B., Violeau, D., Ricchiuto, M., Gueguen, N., *New experimental data on Favre waves in channels. Part II: prismatic, trapezoidal sectional and non-prismatic channels*, J. Hydr. Res."
 
 - year: null
   status: in preparation
-  ref: "Jouy, B., Violeau, D., Ricchiuto, M., Gueguen, N., *New experimental data on Favre waves in channels. Part I: prismatic, rectangular sectional channel*, J. Hydr. Res.."
+  ref: "Jouy, B., Violeau, D., Ricchiuto, M., Gueguen, N., *New experimental data on Favre waves in channels. Part I: prismatic, rectangular sectional channel*, J. Hydr. Res."
 
 - year: null
   status: in preparation
-  ref: "Amama, Z., Courivaud, J.-R., Bourban, S., El Kadi Abderrezzak, K., Violeau, D., *Hydraulic response and spatial monitoring of overtopping induced levee breaching on a mobile bed*, J. Hydr. Res.."
+  ref: "Amama, Z., Courivaud, J.-R., Bourban, S., El Kadi Abderrezzak, K., Violeau, D., *Hydraulic response and spatial monitoring of overtopping induced levee breaching on a mobile bed*, J. Hydr. Res."
 
 - year: null
   status: submitted
-  ref: "Chatzis, K., Violeau, D., *The Corps des Ponts et Chaussées, its training school and the making of modern Hydraulics*, J. Hydr. Res.."
+  ref: "Chatzis, K., Violeau, D., *The Corps des Ponts et Chaussées, its training school and the making of modern Hydraulics*, J. Hydr. Res."
 
 - year: null
   status: submitted
-  ref: "Yahyaoui, A., Constantinescu, G., Fonty, T., Violeau, D., K., Simonin, O., Debenest, G., *Validation of a Darcy–Brinkman–Forchheimer porosity model in a free-surface flow framework*, J. Hydr. Res.."
+  ref: "Yahyaoui, A., Constantinescu, G., Fonty, T., Violeau, D., K., Simonin, O., Debenest, G., *Validation of a Darcy–Brinkman–Forchheimer porosity model in a free-surface flow framework*, J. Hydr. Res."
 
 - year: null
   status: submitted
@@ -53,11 +54,11 @@
 
 - year: null
   status: submitted
-  ref: "Violeau, D., *Reflection of a plane wave from a straight coastline: a closed-form solution with linear bottom friction*, J. Fluid Mech.."
+  ref: "Violeau, D., *Reflection of a plane wave from a straight coastline: a closed-form solution with linear bottom friction*, J. Fluid Mech."
 
 - year: null
   status: submitted
-  ref: "Dufour, C., Hermange, C., Degand, V., Violeau, D., Le Touzé, D., Oger, G., *Stabilization of explicitly coupled fluid rigid-body interaction: Theory for Incompressible Smoothed Particle Hydrodynamics*, J. Comput. Phys.."
+  ref: "Dufour, C., Hermange, C., Degand, V., Violeau, D., Le Touzé, D., Oger, G., *Stabilization of explicitly coupled fluid rigid-body interaction: Theory for Incompressible Smoothed Particle Hydrodynamics*, J. Comput. Phys."
 
 - year: 2026
   ref: "Degand, V., Merino-Alonso, P.E., Violeau, D., Oger, G. (2026), *Energy conservation in ISPH*, J. Comput. Phys. **565**:115219."
