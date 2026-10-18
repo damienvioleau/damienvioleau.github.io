@@ -2,5 +2,7 @@
 title: "Damien Violeau"
 description: "Senior researcher at EDF R&D (LNHE) and LHSV, Professor at École des Ponts — hydraulics, water waves, turbulence, SPH."
 lang: en
+# Visitor statistics: https://damienvioleau.goatcounter.com (delete the line to disable)
+goatcounter: damienvioleau
 markdown: kramdown
 exclude: [README.md, preview.py, _preview]
