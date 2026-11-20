@@ -1,8 +1,14 @@
 # Site settings — GitHub Pages reads this file automatically
 title: "Damien Violeau"
-description: "Senior researcher at EDF R&D (LNHE) and LHSV, Professor at École des Ponts — hydraulics, water waves, turbulence, SPH."
+url: "https://damienvioleau.github.io"
+description: "Damien Violeau — senior researcher at EDF R&D (LNHE) and the Saint-Venant Laboratory for Hydraulics (LHSV), Professor at École des Ponts (Institut Polytechnique de Paris). Hydraulics, water waves, tsunamis, turbulence modelling, Smoothed Particle Hydrodynamics (SPH)."
 lang: en
 # Visitor statistics: https://damienvioleau.goatcounter.com (delete the line to disable)
 goatcounter: damienvioleau
+# Google Search Console: paste here the code given by Google ("HTML tag" method,
+# the value of content="..."), between the quotes
+google_site_verification: ""
+plugins:
+  - jekyll-sitemap
 markdown: kramdown
 exclude: [README.md, preview.py, _preview]
