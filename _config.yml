@@ -7,7 +7,7 @@ lang: en
 goatcounter: damienvioleau
 # Google Search Console: paste here the code given by Google ("HTML tag" method,
 # the value of content="..."), between the quotes
-google_site_verification: ""
+google_site_verification: "JWMLNumS_n4a4uTdoEbfmwrO3QgtVtv-7f1NjC5jW_I"
 plugins:
   - jekyll-sitemap
 markdown: kramdown
